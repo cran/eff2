@@ -1,7 +1,7 @@
 Package: eff2
 Type: Package
 Title: Efficient Least Squares for Total Causal Effects
-Version: 1.0.0
+Version: 1.0.1
 Author: Richard Guo [aut, cre] (<https://orcid.org/0000-0002-2081-7398>)
 Maintainer: Richard Guo <ricguo@uw.edu>
 Authors@R: c(
@@ -28,10 +28,10 @@ Depends: R (>= 3.5.0)
 Imports: pcalg (>= 2.6), RBGL, igraph
 Suggests: knitr, rmarkdown, testthat, qgraph
 VignetteBuilder: knitr
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
-Packaged: 2021-05-20 16:04:09 UTC; ricguo
+Packaged: 2021-09-30 20:29:43 UTC; ricguo
 Repository: CRAN
-Date/Publication: 2021-05-21 08:10:05 UTC
+Date/Publication: 2021-09-30 20:40:02 UTC
